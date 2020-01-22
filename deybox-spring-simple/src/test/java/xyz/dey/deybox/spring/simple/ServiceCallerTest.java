@@ -1,4 +1,4 @@
-package com.dey.deybox.spring.simple;
+package xyz.dey.deybox.spring.simple;
 
 
 import org.junit.Test;

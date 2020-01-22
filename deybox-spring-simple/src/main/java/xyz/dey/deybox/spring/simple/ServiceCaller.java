@@ -1,4 +1,4 @@
-package com.dey.deybox.spring.simple;
+package xyz.dey.deybox.spring.simple;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

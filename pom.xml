@@ -29,6 +29,7 @@
     </build>
     <modules>
         <module>deybox-spring-simple</module>
+        <module>deybox-spring-javaconfig</module>
     </modules>
 
 </project>

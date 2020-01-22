@@ -1,4 +1,4 @@
-package com.dey.deybox.spring.simple;
+package xyz.dey.deybox.spring.simple;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
@@ -9,9 +9,9 @@ import org.springframework.context.annotation.Configuration;
  *
  * 这个地方如果只是配置了一个@Configuration，没有配扫描@ComponentScan，会报错：
  * Exception in thread "main" org.springframework.beans.factory.NoSuchBeanDefinitionException:
- * No qualifying bean of type 'com.dey.deybox.spring.simple.GreetingService' available
+ * No qualifying bean of type 'GreetingService' available
  */
 @Configuration
-@ComponentScan("com.dey.deybox")
+@ComponentScan("xyz.dey.deybox")
 public class DeyConfig {
 }
