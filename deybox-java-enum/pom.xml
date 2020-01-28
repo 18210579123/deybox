@@ -9,11 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>deybox-java-collection</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>deybox-java-enum</module>
-    </modules>
+    <artifactId>deybox-java-enum</artifactId>
 
 
 </project>

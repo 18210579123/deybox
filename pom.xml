@@ -32,6 +32,15 @@
         <module>deybox-spring-javaconfig</module>
         <module>deybox-logging-simple</module>
         <module>deybox-java-collection</module>
+        <module>deybox-java-enum</module>
     </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>${junit.version}</version>
+        </dependency>
+    </dependencies>
 
 </project>
