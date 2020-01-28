@@ -30,6 +30,8 @@
     <modules>
         <module>deybox-spring-simple</module>
         <module>deybox-spring-javaconfig</module>
+        <module>deybox-logging-simple</module>
+        <module>deybox-java-collection</module>
     </modules>
 
 </project>
